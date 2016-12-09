@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:plug="http://plugins.operday.ERPIntegration.crystals.ru/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <plug:getPurchasesByOperDay>
+         <!--Optional:-->
+         <dateOperDay>2016-11-13</dateOperDay>
+      </plug:getPurchasesByOperDay>
+   </soapenv:Body>
+</soapenv:Envelope>

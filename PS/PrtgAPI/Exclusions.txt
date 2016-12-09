@@ -1,0 +1,12 @@
+Victoria 01 reserve server
+Victoria 02 reserve server
+Victoria 04 reserve server
+OFFICE Ochakovo SRV-FS1
+OFFICE Ochakovo SRV-FS2
+OFFICE Altufevo reserve server
+RZ Chernaya Grayaz UTM Server
+Fabric Kitchen reserve server
+Victoria 07 reserve server
+Victoria 22 reserve server
+Victoria 56 reserve server
+Victoria 24 reserve server
